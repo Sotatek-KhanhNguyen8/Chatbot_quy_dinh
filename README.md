@@ -1,4 +1,4 @@
 # Chuẩn bị
 ### pip install -r requirements.txt
-### Nhập OPENAI_API_KEY
+### Sửa OPENAI_API_KEY tại main.py
 ### streamlit run main.py
